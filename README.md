@@ -9,7 +9,7 @@
 > ### **A passionate iOS dev. committed to making meaningful contributions towards advancing society through innovative solutions and technology-driven initiatives.**
 
 #### 👤 About me
--  with 3 years of experience and a record of delivering over 20+ successful applications. Proficient in Swift, SwiftUI, and Objective-C. Committed to staying at the forefront of          technology trends. Holds a BE in Computer Engineering from SCET.
+-  with 3 years of experience and a record of delivering over 20+ successful applications. Proficient in Swift, SwiftUI, and Objective-C. Committed to staying at the forefront of          technology trends. Holds a BE in Computer Engineering from SCET.
 - 🔬 My expertise lies in **designing, coding, and testing** high-performaning mobile applications.
 - 🦾 I've worked on various projects - from small prototypes to **enterprise-level** applications.
 - 🚀 I'm passionate about using my skills to solve challenging problems with a direct **real-world impact.**
