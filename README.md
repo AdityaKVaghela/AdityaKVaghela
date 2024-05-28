@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakvaghela&label=Profile%20views&color=0e75b6&style=flat" alt="dixitgdev" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dixit-ghodadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dixit-ghodadara" height="30" width="40" /></a>
-<a href="https://twitter.com/dixitghodadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dixitghodadara" height="30" width="40" /></a>
-<a href="https://instagram.com/dixit_ghodadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dixit_ghodadara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityakvaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dixit-ghodadara" height="30" width="40" /></a>
+<a href="https://twitter.com/iadii13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dixitghodadara" height="30" width="40" /></a>
+<a href="https://instagram.com/adityaavaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dixit_ghodadara" height="30" width="40" /></a>
 </p>
 
-> ### **I truly believe in the power of code to transform and simplify our lives sustainably.**
+> ### **A passionate iOS dev. committed to making meaningful contributions towards advancing society through innovative solutions and technology-driven initiatives.**
 
 #### 👤 About me
 - ☁️ I'm AWS Certified Solutions Architect - Associate [**(View certificate)**](https://www.credly.com/badges/dda467f0-4405-4ce1-b814-4bc670f4770b)
